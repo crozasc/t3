@@ -1,9 +1,12 @@
 # t3
 ## Description
 
-Develop a Jupyter Notebook application that displays a history of the data visualization process to display features of the selected data set, using
-the tools that provide the Python programming language through libraries
-views in classes (Numpy, Pandas and Matplotlib).
+Develop an application in Jupyter Notebook that displays a history of a complete cycle
+of some Machine Learning technique seen in Chapter 5. To do this, you must select
+a data set already prepared or that requires simple preparation that is suitable
+for the technique to be applied. All this must be done using the tools that
+provides the Python programming language through the libraries seen in classes (Numpy,
+Pandas, Matplotlib, Seaborn, Scipy, and Sklearn).
 
 ## Usage
 Using the Jupyter Notebook tool used blocks
